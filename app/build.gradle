@@ -11,7 +11,7 @@ kapt {
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.1"
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "site.paranoia.kotlin_dagger2_mvp_starter"
         minSdkVersion 19
